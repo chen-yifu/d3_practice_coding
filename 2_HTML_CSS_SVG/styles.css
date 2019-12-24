@@ -1,0 +1,37 @@
+body {
+	font-size: 30px;
+  font-family: monospace;
+  margin: 0px;
+  overflow:hidden;
+}
+
+.highlighted {
+  font-size: 45px;
+  color: green;
+}
+
+.lines {
+ stroke: green;
+ stroke-width:10;
+}
+
+.lines path {
+  stroke: #25656d;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
