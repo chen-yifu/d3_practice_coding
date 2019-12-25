@@ -36,3 +36,7 @@ I have included screenshots / gifs to showcase the practice results, in case you
 ### 4_Bar_Chart_D3
 <img src="https://github.com/chen-yifu/d3_practice_coding/blob/master/4_Bar_Chart_D3/Screen%20Shot%202019-12-24%20at%206.54.25%20PM.png" width="680" height="450">
 
+
+
+### 5_Car_Scatterplot_D3
+<img src="https://github.com/chen-yifu/d3_practice_coding/blob/master/5_Cars_Scatterplot_D3/Screen%20Shot%202019-12-25%20at%2011.02.28%20AM.png" width="680" height="450">
