@@ -5,5 +5,5 @@ export const formatCar = car => {
     model,
     price
   } = car;
-  return `${year} ${make} ${model}: $$${price}`;
+  return `${year} ${make} ${model}: $${price}`;
 }

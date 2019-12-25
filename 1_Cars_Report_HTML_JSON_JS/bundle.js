@@ -41,7 +41,7 @@
       model,
       price
     } = car;
-    return `${year} ${make} ${model}: $$${price}`;
+    return `${year} ${make} ${model}: $${price}`;
   };
 
   const generateReport = (cars, maxPrice) =>
