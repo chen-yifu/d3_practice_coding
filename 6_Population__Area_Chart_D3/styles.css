@@ -1,0 +1,51 @@
+body {
+	font-size: 30px;
+  font-family: monospace;
+  margin: 0px;
+  overflow:hidden;
+}
+
+svg {
+	background-color: #f0fff4;
+}
+circle {
+	fill: steelblue;
+  opacity: 0.7;
+}
+
+text {
+  font-family: sans-serif;
+}
+
+.tick text {
+  font-size: 2em;
+	fill: #635F5D;
+}
+
+.tick line {
+	stroke: #C0C0BB;	
+}
+
+.axis-label {
+	font-size: 3em;
+  fill: #8E8883;
+}
+
+.title {
+  font-size: 1.2em;
+	fill: #8E8883;
+}
+
+.line-path {
+	fill: steelblue;
+  stroke: steelblue;
+  stroke-width: 2px;
+  stroke-linejoin: round;
+  opacity:0.8;
+}
+
+
+
+
+
+
