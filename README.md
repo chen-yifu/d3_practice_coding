@@ -1,4 +1,4 @@
-This repository contains some practices that I did to prepare for the job as a NLP co-op internship.
+This repository contains some practices that I did to prepare for the NLP co-op internship at UBC.
 
 I have included screenshots / gifs to showcase the practice results, in case you are curious.
 
