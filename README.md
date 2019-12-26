@@ -40,3 +40,10 @@ I have included screenshots / gifs to showcase the practice results, in case you
 
 ### 5_Car_Scatterplot_D3
 <img src="https://github.com/chen-yifu/d3_practice_coding/blob/master/5_Cars_Scatterplot_D3/Screen%20Shot%202019-12-25%20at%2011.02.28%20AM.png" width="640" height="450">
+
+
+### 6_Temperature_Line_Chart_D3
+<img src="https://github.com/chen-yifu/d3_practice_coding/blob/master/5_Temperature_Line_Chart_D3/Screen%20Shot%202019-12-26%20at%2011.25.51%20AM.png" width="640" height="450">
+
+### 7_Population__Area_Chart_D3
+<img src="https://github.com/chen-yifu/d3_practice_coding/blob/master/6_Population__Area_Chart_D3/Screen%20Shot%202019-12-26%20at%2011.25.43%20AM.png" width="640" height="450">
