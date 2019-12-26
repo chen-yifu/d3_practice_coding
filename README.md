@@ -1,4 +1,4 @@
-This repository contains some practices that I did to prepare for the job as a NLP co-op internship, where I will be using d3.js to visualize data.
+This repository contains some practices that I did to prepare for the job as a NLP co-op internship.
 
 I have included screenshots / gifs to showcase the practice results, in case you are curious.
 
