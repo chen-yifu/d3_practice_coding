@@ -1,7 +1,8 @@
-This repository contains some practices that I did to prepare for the NLP co-op internship at UBC.
+This repository contains some practices that I did to prepare for the NLP co-op internship at UBC. I had zero HTML, CSS, JavaScript, or d3.js experience before this, but I learned quickly.
 
 I have included screenshots / gifs to showcase the practice results, in case you are curious.
 
+Began Date: Dec. 24, 2019
 
 
 
