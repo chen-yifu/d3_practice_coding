@@ -1,4 +1,4 @@
-This repository contains some practices that I did to prepare for the job as a NLP co-op internship, where I will be using d3.js to visualize data.
+This repository contains some practices that I did to prepare for the NLP co-op internship at UBC.
 
 I have included screenshots / gifs to showcase the practice results, in case you are curious.
 
@@ -43,7 +43,7 @@ I have included screenshots / gifs to showcase the practice results, in case you
 
 
 ### 6_Temperature_Line_Chart_D3
-<img src="https://github.com/chen-yifu/d3_practice_coding/blob/master/5_Temperature_Line_Chart_D3/Screen%20Shot%202019-12-26%20at%2011.25.51%20AM.png" width="640" height="450">
+<img src="https://github.com/chen-yifu/d3_practice_coding/blob/master/6_Temperature_Graph_Chart_D3/Screen%20Shot%202019-12-26%20at%2011.25.51%20AM.png" width="640" height="450">
 
 ### 7_Population__Area_Chart_D3
-<img src="https://github.com/chen-yifu/d3_practice_coding/blob/master/6_Population__Area_Chart_D3/Screen%20Shot%202019-12-26%20at%2011.25.43%20AM.png" width="640" height="450">
+<img src="https://github.com/chen-yifu/d3_practice_coding/blob/master/7_Population__Area_Chart_D3/Screen%20Shot%202019-12-26%20at%2011.25.43%20AM.png" width="640" height="450">
