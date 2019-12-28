@@ -1,7 +1,8 @@
-This repository contains some practices that I did to prepare for the NLP co-op internship at UBC.
+This repository contains some practices that I did to prepare for the NLP co-op internship at UBC. I had zero HTML, CSS, JavaScript, or d3.js experience before this, but I learned quickly.
 
 I have included screenshots / gifs to showcase the practice results, in case you are curious.
 
+Began Date: Dec. 24, 2019
 
 
 
@@ -47,3 +48,7 @@ I have included screenshots / gifs to showcase the practice results, in case you
 
 ### 7_Population__Area_Chart_D3
 <img src="https://github.com/chen-yifu/d3_practice_coding/blob/master/7_Population__Area_Chart_D3/Screen%20Shot%202019-12-26%20at%2011.25.43%20AM.png" width="640" height="450">
+
+
+### 8_Fruit_Bowl_Transition_Merge_Group_Patterns_D3
+<img src="https://github.com/chen-yifu/d3_practice_coding/blob/master/8_Fruit_Bowl_Transition_Merge_Group_Patterns_D3/ezgif-3-7a1fe17d8933.gif" width="640" height="450"> 
