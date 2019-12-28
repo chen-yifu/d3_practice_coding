@@ -52,3 +52,7 @@ Began Date: Dec. 24, 2019
 
 ### 8_Fruit_Bowl_Transition_Merge_Group_Patterns_D3
 <img src="https://github.com/chen-yifu/d3_practice_coding/blob/master/8_Fruit_Bowl_Transition_Merge_Group_Patterns_D3/ezgif-3-7a1fe17d8933.gif" width="640" height="450"> 
+
+
+### 9_Fruit_Bowl_Select_And_Hover_D3
+<img src="https://github.com/chen-yifu/d3_practice_coding/blob/master/9_Fruit_Bowl_Select_And_Hover_D3/ezgif-3-a447891d18ad.gif" width="640" height="450"> 
