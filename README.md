@@ -6,10 +6,6 @@ Began Date: Dec. 24, 2019
 
 
 
-### 0_HTML
-<img src="https://github.com/chen-yifu/d3_practice_coding/blob/master/0_HTML/Screen%20Shot%202019-12-24%20at%2012.16.33%20PM.png" width="680" height="450">
-
-
 ### 9_Fruit_Bowl_Select_And_Hover_D3
 <img src="https://github.com/chen-yifu/d3_practice_coding/blob/master/9_Fruit_Bowl_Select_And_Hover_D3/ezgif-3-a447891d18ad.gif" width="680" height="450"> 
 
@@ -47,5 +43,9 @@ Began Date: Dec. 24, 2019
 
 <img src="https://github.com/chen-yifu/d3_practice_coding/blob/master/1_Cars_Report_HTML_JSON_JS/ezgif-3-a0b81a3ae878.gif" width="640" height="450">
 
+
+
+### 0_HTML
+<img src="https://github.com/chen-yifu/d3_practice_coding/blob/master/0_HTML/Screen%20Shot%202019-12-24%20at%2012.16.33%20PM.png" width="680" height="450">
 
 
