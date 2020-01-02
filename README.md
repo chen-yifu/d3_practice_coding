@@ -50,5 +50,5 @@ Began Date: Dec. 24, 2019
 
 
 ### a_Coursera_NYU_D3_Assignment
-<img src="https://github.com/chen-yifu/d3_practice_coding/blob/master/a_Coursera_NYU_D3_Assignment/Screen%20Shot%202020-01-01%20at%209.27.01%20PM.png" width="680" height="450">3
+<img src="https://github.com/chen-yifu/d3_practice_coding/blob/master/a_Coursera_NYU_D3_Assignment/Screen%20Shot%202020-01-01%20at%209.27.01%20PM.png" width="680" height="450">
 
