@@ -7,7 +7,7 @@ Began Date: Dec. 24, 2019
 
 
 ### a_Coursera_NYU_D3_Assignment
-(note: most of the code was provided by the MOOC, I only had to fill in the "TODO"s)
+(note: the majority of the code was provided by the MOOC, I only had to fill in the "TODO"s)
 <img src="https://github.com/chen-yifu/d3_practice_coding/blob/master/a_Coursera_NYU_D3_Assignment/ezgif-6-73916a75c8fa.gif" width="680" height="450">
 
 
