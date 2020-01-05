@@ -8,6 +8,7 @@ Began Date: Dec. 24, 2019
 
 ### a_Coursera_NYU_D3_Assignment
 <img src="https://github.com/chen-yifu/d3_practice_coding/blob/master/a_Coursera_NYU_D3_Assignment/ezgif-6-73916a75c8fa.gif" width="680" height="450">
+(note: most of the code were given by the MOOC, I only had to fill in the "TODO"s)
 
 
 ### 9_Fruit_Bowl_Select_And_Hover_D3
