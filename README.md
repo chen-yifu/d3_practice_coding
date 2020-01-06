@@ -2,7 +2,11 @@ This repository contains some practices that I did to prepare for the NLP co-op 
 
 I have included screenshots / gifs to showcase the practice results, in case you are curious.
 
-Began Date: Dec. 24, 2019
+Began Date: Dec 24, 2019
+
+End Date: Jan 4, 2020
+
+I am temporarily turning my focus on PHP and general web-development to build the website that will host the visualization.
 
 
 
